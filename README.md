@@ -16,3 +16,5 @@ The courses comprising the Data Science Specialization are:
 * Statistical Inference
 
 * Regression Models
+
+Git is fun.
